@@ -34,5 +34,8 @@ autoload -Uz compinit
 compinit
 # End of lines added by compinstall
 
+# added by gvm
+[ -f $HOME/.gvm/scripts/gvm ] && source $HOME/.gvm/scripts/gvm
+
 # added by travis gem
 [ -f /Users/xtakei/.travis/travis.sh ] && source /Users/xtakei/.travis/travis.sh
