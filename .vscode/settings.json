@@ -11,7 +11,7 @@
     "go.useCodeSnippetsOnFunctionSuggest": false,
     "go.formatOnSave": true,
     "go.formatTool": "goreturns",
-    "go.goroot": "/usr/local/go",
-    "go.gopath": "/Users/lukeh/go",
+    "go.goroot": "/Users/xtakei/.gvm/gos/go1.7",
+    "go.gopath": "/Users/xtakei/.gvm/pkgsets/go1.7/global",
     "go.gocodeAutoBuild": false
 }
